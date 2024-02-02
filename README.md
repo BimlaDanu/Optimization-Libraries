@@ -1,7 +1,7 @@
 # JAX  Optimization-Libraray
 
 
-requirement 
+requirements 
 
 ```pyhton
 pip install jax jaxlib
